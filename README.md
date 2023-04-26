@@ -1,6 +1,6 @@
 # Math-Knights
 
-Education base math game for first graders. Build in Unity with a team of three in my Software Engineering class.
+Education based math game for first graders. Build in Unity with a team of three in my Software Engineering class.
 
 Check out how this runs from here: 
 https://www.youtube.com/watch?v=iN4RqjPVoNU&t=23s 
